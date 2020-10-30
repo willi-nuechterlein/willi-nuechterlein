@@ -1,10 +1,7 @@
 ![alt text](./readme-banner.png)
-
 <br/>
 
 # Hi 👋🏼 <br/> My name is Willi. <br/>Welcome to my GitHub.
-
-<br/>
 
 ## **What's happening atm:**
 
@@ -15,8 +12,6 @@ Get in touch:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/willi-n/)
 
 <!-- Currently working on: -->
-
-<br/>
 
 ## **What I build with:**
 
@@ -40,8 +35,9 @@ Get in touch:
 ![](https://img.shields.io/badge/-Express.js-4B8BF5?style=flat-square&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+<br/>
 
-## **some stats**
+---
 
 ![Profile views](https://gpvc.arturio.dev/willi-nuechterlein)\
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=willi-nuechterlein)
