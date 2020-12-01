@@ -5,17 +5,15 @@
 
 ## **What's happening atm:**
 
-Currently building:<br/>
+Currently building:
 
-### [onMenu](on-menu.de)<br/>
+#### [onMenu](on-menu.de)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=willi-nuechterlein&repo=on-menu)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm also open for full time or project work!\
-Get in touch:
-<br/>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/willi-n/)
+👈 get in touch
 
 <!-- Currently working on: -->
 
