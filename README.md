@@ -5,9 +5,7 @@
 
 ## **What's happening atm:**
 
-Currently building:
-
-#### [onMenu](on-menu.de)
+Currently building: [onMenu](on-menu.de)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=willi-nuechterlein&repo=on-menu)](https://github.com/anuraghazra/github-readme-stats)
 
