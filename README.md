@@ -5,9 +5,9 @@
 
 ## **What's happening atm:**
 
-Currently building: [onMenu](on-menu.de)
+Currently building: <a href="http://on-menu.de" target="_blank">onMenu</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=willi-nuechterlein&repo=on-menu)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=willi-nuechterlein&repo=on-menu)](https://github.com/willi-nuechterlein/on-menu)
 
 I'm also open for full time or project work!\
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/willi-n/)
