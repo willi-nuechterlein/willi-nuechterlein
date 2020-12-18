@@ -40,7 +40,7 @@ I'm also open for full time or project work!\
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
-![](https://img.shields.io/badge/-Servlerles-FD5750?style=flat-square&logo=Serverless&logoColor=white)
+![](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 <br/>
 
