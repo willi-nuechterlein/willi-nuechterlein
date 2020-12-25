@@ -3,7 +3,7 @@
 
 # Hi 👋🏼 <br/> My name is Willi. <br/>Welcome to my GitHub.
 
-## **What's happening atm:**
+<!-- ## **What's happening atm:**
 
 Currently building: <a href="http://on-menu.de" target="_blank">onMenu</a>
 
@@ -11,7 +11,7 @@ Currently building: <a href="http://on-menu.de" target="_blank">onMenu</a>
 
 I'm also open for full time or project work!\
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/willi-n/)
-👈 get in touch
+👈 get in touch -->
 
 <!-- Currently working on: -->
 
