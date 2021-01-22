@@ -1,7 +1,9 @@
-![alt text](./readme-banner.png)
+<!-- ![alt text](./readme-banner.png) -->
 <br/>
 
-# Hi 👋🏼 <br/> My name is Willi. <br/>Welcome to my GitHub.
+# Hi 👋🏼 <br/> My name is Willi.
+
+<!-- <br/>Welcome to my GitHub. -->
 
 <!-- ## **What's happening atm:**
 
@@ -15,17 +17,17 @@ I'm also open for full time or project work!\
 
 <!-- Currently working on: -->
 
-## **My favourite tech:**
+<!-- ## **My favourite tech:**
 
 <h3>Frontend</h3>
 
 ![](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white)
-![](https://img.shields.io/badge/-mobX-FB7A24?style=flat-square&l&logoColor=white)
+![](https://img.shields.io/badge/-mobX-FB7A24?style=flat-square&l&logoColor=white) -->
 
 <!-- ![](https://img.shields.io/badge/-Vue.js-38B2AC?style=flat-square&logo=Vue.js&logoColor=white)\ -->
 
-![](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/-TailwindCSS-38B2A8?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white)
@@ -42,7 +44,7 @@ I'm also open for full time or project work!\
 ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 ![](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-<br/>
+<br/> -->
 
 ---
 
