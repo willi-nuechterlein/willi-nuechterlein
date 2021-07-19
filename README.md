@@ -1,7 +1,7 @@
 <!-- ![alt text](./readme-banner.png) -->
 <br/>
 
-# Hi 👋🏼 <br/> My name is Willi.
+<!-- # Hi 👋🏼 <br/> My name is Willi. -->
 
 <!-- <br/>Welcome to my GitHub. -->
 
@@ -48,5 +48,5 @@ I'm also open for full time or project work!\
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/willi-nuechterlein)\
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=willi-nuechterlein)
+<!-- ![Profile views](https://gpvc.arturio.dev/willi-nuechterlein)\ -->
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=willi-nuechterlein) -->
